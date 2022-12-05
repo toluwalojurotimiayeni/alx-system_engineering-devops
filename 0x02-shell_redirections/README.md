@@ -1,1 +1,1 @@
-A script that replace all characters A and c from input to Z and e respectively
+A script that displays all users and their home directories, sorted by users
