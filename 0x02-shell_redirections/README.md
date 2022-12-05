@@ -1,1 +1,1 @@
-A script that duplicates the last line of the file iacta
+A script that displays the third line of the file iacta
