@@ -1,1 +1,1 @@
-A script that prints hello user, where user is the current Linux user
+A script that converts a number from base 10 to base 16
