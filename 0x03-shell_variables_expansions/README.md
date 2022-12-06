@@ -1,1 +1,1 @@
-A script that adds the two numbers stored in the environment variables WATER and STIR and prints the result
+A script that prints a number with two decimal places, followed by a new line
