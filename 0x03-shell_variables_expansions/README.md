@@ -1,1 +1,1 @@
-A script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+A script that converts a number from base 10 to base 16
