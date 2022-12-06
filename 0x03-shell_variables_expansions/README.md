@@ -1,1 +1,1 @@
-A script that lists all local variables and environment variables, and functions
+A script that a script that creates a new local variable,Name: BEST,Value: School
