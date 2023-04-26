@@ -1,1 +1,1 @@
-This is a README.md for loops, conditioning and parsing
+Write a Bash script that displays Best School 10 times
