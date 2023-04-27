@@ -1,1 +1,1 @@
-Write a Bash script that displays To infinity and beyond indefinitely, etc
+Write a Bash script that kills the process 7-highlander
