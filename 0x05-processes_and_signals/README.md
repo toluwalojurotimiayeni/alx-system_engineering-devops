@@ -1,1 +1,1 @@
-Write a Bash script that displays To infinity and beyond indefinitely
+Write a Bash script that stops 4-to_infinity_and_beyond process
